@@ -1,1 +1,2 @@
 # Etch-A-Sketch
+This project shows how to build a browser version of something between a sketchpad and an Etch-A-Sketch using Javascript. Completion of the project shows the mastery of basic DOM Manipulation and events.
